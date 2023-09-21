@@ -14,7 +14,7 @@
         android:layout_height="350dp"
         android:layout_gravity="center_horizontal"
         android:scaleType="centerCrop"
-        android:src="@drawable/logo" />
+        android:src="@drawable/loo" />
 
     <ProgressBar
         android:id="@+id/pgbFoto"
